@@ -40,3 +40,11 @@
  <P><kbd>⇥</kbd>If 1 ≤ n ≤ 9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).</p>
  <P><kbd>⇥</kbd>If n ≥ 9 , print Greater than 9.</p>
 </details>
+
+<details>
+ <summary><h3>Problem 6: For loop in C</h3></summary>
+<p>For each integer n in the interval [a,b] (given as input) :</p>
+ <P><kbd>⇥</kbd> If 1 ≤ n ≤ 9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).</p>
+ <P><kbd>⇥</kbd> Else if n > 9 and it is an even number, then print "even"</p>
+ <P><kbd>⇥</kbd> Else if n > 9 and it is an odd number, then print "odd".</p>
+</details>
