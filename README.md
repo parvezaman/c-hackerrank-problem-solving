@@ -31,3 +31,10 @@
  <summary><h3>Problem 4: Pointers inC</h3></summary>
 <p>The input will contain two integers a, and b, separated by a newline.</p>
 </details>
+
+<details>
+ <summary><h3>Problem 5: Conditionals and loops</h3></summary>
+<p>Given a positive integer denoting n, do the following:</p>
+ <P><kbd>⇥</kbd>If 1 ≤ n ≤ 9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).</p>
+ <P><kbd>⇥</kbd>If n ≥ 9 , print Greater than 9.</p>
+</details>
