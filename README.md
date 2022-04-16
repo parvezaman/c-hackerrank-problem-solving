@@ -1,7 +1,8 @@
 # c-hackerrank-problem-solving 
+====================================
  
-##Problem Lists##
--------------------
+## Problem Lists ##
+----------------------
 
 <details>
 <summary>Problem 1: Hello World! in C</summary>
