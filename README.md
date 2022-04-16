@@ -26,3 +26,8 @@
  <summary><h3>Problem 3: Functions in C</h3></summary>
 <p>Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.</p>
 </details>
+
+<details>
+ <summary><h3>Problem 4: Pointers inC</h3></summary>
+<p>The input will contain two integers a, and b, separated by a newline.</p>
+</details>
