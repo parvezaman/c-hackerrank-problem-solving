@@ -48,3 +48,8 @@
  <P><kbd>⇥</kbd> Else if n > 9 and it is an even number, then print "even"</p>
  <P><kbd>⇥</kbd> Else if n > 9 and it is an odd number, then print "odd".</p>
 </details>
+
+<details>
+ <summary><h3>Problem 7: Sum of digits of a 5 digit number</h3></summary>
+<p>Given a five digit integer, print the sum of its digits.</p>
+</details>
