@@ -53,3 +53,8 @@
  <summary><h3>Problem 7: Sum of digits of a 5 digit number</h3></summary>
 <p>Given a five digit integer, print the sum of its digits.</p>
 </details>
+
+<details>
+ <summary><h3>Problem 8: Printing pattern using loop in C</h3></summary>
+<p>Print a pattern of numbers from  to  as shown below. Each of the numbers is separated by a single space.</p>
+</details>
