@@ -28,8 +28,10 @@
 </details>
 
 <details>
- <summary><h3>Problem 4: Pointers inC</h3></summary>
-<p>The input will contain two integers a, and b, separated by a newline.</p>
+ <summary><h3>Problem 4: Pointers in C</h3></summary>
+<p>Complete the function void update(int *a,int *b). It receives two integer pointers, int* a and int* b. Set the value of a to their sum, and b to their absolute difference. There is no return value, and no return statement is needed.</p>
+ <P><kbd>⇥</kbd> α = (a + b)</p>
+ <P><kbd>⇥</kbd> β = |a - b|</p>
 </details>
 
 <details>
