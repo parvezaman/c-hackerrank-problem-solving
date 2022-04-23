@@ -63,6 +63,14 @@
 </details>
 
 <details>
+ <summary><h3>Problem 10: 1D Arrays in C</h3></summary>
+<p>In this challenge, create an array of size n dynamically, and read the values from stdin. Iterate the array calculating the sum of all elements. Print the sum and free the memory where the array is stored.
+
+While it is true that you can sum the elements as they are read, without first storing them to an array, but you will not get the experience working with an array. Efficiency will be required later.</p>
+
+</details>
+
+<details>
  <summary><h3>Problem 9: Bitwise operators</h3></summary>
 <p>In this challenge, you will use logical bitwise operators. All data is stored in its binary representation. The logical operators, and C language, use 1 to represent true and 0 to represent false. The logical operators compare bits in two numbers and return true or false, 0 or 1, for each bit compared.</p>
  <P><kbd>⇥</kbd> Bitwise AND operator & The output of bitwise AND is 1 if the corresponding bits of two operands is 1. If either bit of an operand is 0, the result of corresponding bit is evaluated to 0. It is denoted by &.</p>
