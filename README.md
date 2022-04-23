@@ -1,8 +1,6 @@
-# c-hackerrank-problem-solving 
+# c-hackerrank-problem-solving
 
- 
-## Problem Lists ##
-
+## Problem Lists
 
 <details>
  <summary><h3>Problem :</h3></summary>
@@ -57,6 +55,11 @@
 <details>
  <summary><h3>Problem 8: Printing pattern using loop in C</h3></summary>
 <p>Print a pattern of numbers from  to  as shown below. Each of the numbers is separated by a single space.</p>
+</details>
+
+<details>
+ <summary><h3>Problem 9: Playing with charecters</h3></summary>
+<p>You have to print the character,ch , in the first line. Then print s in next line. In the last line print the sentence, sen .</p>
 </details>
 
 <details>
