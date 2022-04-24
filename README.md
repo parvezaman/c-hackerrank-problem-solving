@@ -76,7 +76,7 @@ While it is true that you can sum the elements as they are read, without first s
 </details>
 
 <details>
- <summary><h3>Problem 9: Bitwise operators</h3></summary>
+ <summary><h3>Problem 12: Bitwise operators</h3></summary>
 <p>In this challenge, you will use logical bitwise operators. All data is stored in its binary representation. The logical operators, and C language, use 1 to represent true and 0 to represent false. The logical operators compare bits in two numbers and return true or false, 0 or 1, for each bit compared.</p>
  <P><kbd>⇥</kbd> Bitwise AND operator & The output of bitwise AND is 1 if the corresponding bits of two operands is 1. If either bit of an operand is 0, the result of corresponding bit is evaluated to 0. It is denoted by &.</p>
  <P><kbd>⇥</kbd> Bitwise OR operator | The output of bitwise OR is 1 if at least one corresponding bit of two operands is 1. It is denoted by |.</p>
