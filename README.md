@@ -82,3 +82,8 @@ While it is true that you can sum the elements as they are read, without first s
  <P><kbd>⇥</kbd> Bitwise OR operator | The output of bitwise OR is 1 if at least one corresponding bit of two operands is 1. It is denoted by |.</p>
  <P><kbd>⇥</kbd> Bitwise XOR (exclusive OR) operator ^ The result of bitwise XOR operator is 1 if the corresponding bits of two operands are opposite. It is denoted by .</p>
 </details>
+
+<details>
+ <summary><h3>Problem 13: Calculate N th term</h3></summary>
+<p>There is a series, S, where the next term is the sum of pervious three terms. Given the first three terms of the series,a, b, and c respectively, you have to output the nth term of the series using recursion.</p>
+</details>
